@@ -1,3 +1,10 @@
+
+
+<p><strong>Jewish Science</strong>&nbsp;is a&nbsp;<a title="Judaism" href="https://en.wikipedia.org/wiki/Judaism">Judaic</a>&nbsp;spiritual&nbsp;<a title="New religious movement" href="https://en.wikipedia.org/wiki/New_religious_movement">movement</a>&nbsp;comparable with the&nbsp;<a class="mw-redirect" title="New Thought Movement" href="https://en.wikipedia.org/wiki/New_Thought_Movement">New Thought Movement</a>. Many of its members also attend services at conventional&nbsp;<a title="Synagogue" href="https://en.wikipedia.org/wiki/Synagogue">synagogues</a>.</p>
+<p>It is an interpretation of&nbsp;<a title="Jewish philosophy" href="https://en.wikipedia.org/wiki/Jewish_philosophy">Jewish philosophy</a>&nbsp;that was originally conceived by&nbsp;<a title="Rabbi" href="https://en.wikipedia.org/wiki/Rabbi">Rabbi</a>&nbsp;Alfred G. Moses in the early 1900s in response to the growing influence of&nbsp;<a title="Christian Science" href="https://en.wikipedia.org/wiki/Christian_Science">Christian Science</a>&nbsp;and the New Thought Movement. Rather than the paternal God figure encountered in&nbsp;<a class="mw-redirect" title="Hebrew" href="https://en.wikipedia.org/wiki/Hebrew">Hebrew</a>&nbsp;tradition, "Jewish Science views God as an Energy or Force penetrating the reality of the universe. God is the source of all Reality and not separate from but part of the world and Right thinking has a healing effect".&nbsp;His fundamental teachings are found in his 1916 book&nbsp;<em>Jewish Science: Divine Healing in Judaism</em>. The movement was institutionalized in 1922 with Rabbi&nbsp;<a title="Morris Lichtenstein" href="https://en.wikipedia.org/wiki/Morris_Lichtenstein">Morris Lichtenstein</a>'s founding of the Society of Jewish Science</p>
+</br>
+<h2>Books </h2>
+
 <ul>
  <li><a target="_blank" href="https://github.com/manjunath5496/Jewish-Science-Books/blob/master/jsb(1).pdf" style="text-decoration:none;">A Chosen Calling: Jews in Science in the Twentieth Century</a></li>
   
